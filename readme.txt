@@ -11,7 +11,7 @@
 После этого тесты доступны для запуска.
 
 Selenoid-UI доступен по адресу:
-http://localhost:8080/
+http://localhost:8080/ или http://127.0.0.1:8080/
 
 Текущий статус selenoid можно посмотреть по адресу:
 http://localhost:4444/status
